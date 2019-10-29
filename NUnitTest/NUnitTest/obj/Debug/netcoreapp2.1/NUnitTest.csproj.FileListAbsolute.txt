@@ -1,7 +1,5 @@
 C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
 C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
-C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
-C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
 C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\NUnitTest.deps.json
 C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\NUnitTest.runtimeconfig.json
 C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\NUnitTest.runtimeconfig.dev.json
@@ -10,3 +8,10 @@ C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\
 C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.csproj.CoreCompileInputs.cache
 C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.AssemblyInfoInputs.cache
 C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.AssemblyInfo.cs
+C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\bin\Debug\netcoreapp2.1\NUnitTest.pdb
+C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.dll
+C:\Users\OmarManuelFeriaCastr\Source\Repos\omar-feriaC\Test\NUnitTest\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.pdb
